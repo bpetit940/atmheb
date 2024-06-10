@@ -1,5 +1,3 @@
-// src/components/Deposit.tsx
-
 import React, { useState } from 'react';
 import { TextField, Button, Container, Typography, Box, Paper, Stack } from '@mui/material';
 import { deposit } from '../utils/dataService';

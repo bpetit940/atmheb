@@ -1,5 +1,3 @@
-// src/components/ATM.tsx
-
 import React, { useState } from 'react';
 import { Routes, Route, useNavigate } from 'react-router-dom';
 import { getUser, withdraw, deposit } from '../utils/dataService';

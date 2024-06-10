@@ -1,5 +1,3 @@
-// src/components/Withdraw.tsx
-
 import React, { useState } from 'react';
 import { TextField, Button, Container, Typography, Box, Paper, Stack } from '@mui/material';
 import { withdraw } from '../utils/dataService';

@@ -1,5 +1,3 @@
-// src/components/AccountBalance.tsx
-
 import React from 'react';
 import { Container, Typography, Box, Button, Paper } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
